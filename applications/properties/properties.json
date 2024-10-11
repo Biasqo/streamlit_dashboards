@@ -1,0 +1,11 @@
+{
+  "connect": {
+    "host": "gp_dns_gp_risk2.gp.df.sbrf.ru",
+    "database": "gp_risk2"
+  },
+  "kerberos_data": {
+    "ipa": "../keytab/20677888_omega-sbrf-ru.keytab",
+    "ad": "../keytab/20677888@OMEGA.SBRF.RU.keytab"
+  },
+  "secrets_path": "auth/.st_secrets/st_credentials.yaml"
+}

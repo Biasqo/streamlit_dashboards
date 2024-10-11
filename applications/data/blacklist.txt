@@ -1,0 +1,10 @@
+delete
+insert
+update
+vacuum
+analyze
+create
+truncate
+refresh
+drop
+alter
